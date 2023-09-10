@@ -1,0 +1,31 @@
+html{
+    background-color: #ffff66;
+    columns: 2;
+    text-align: center;
+}
+
+body{
+    background-color: #ffff66;
+}
+
+h1{
+    background-color: #ffff66;
+    font-family: Courier;
+    text-align: center;
+    column-span: all;
+}
+
+div{
+    background-color: #ffff66;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+
+form{
+    background-color: #ffffcc;
+    text-align: center;
+    height: 600px;
+}
+
+
